@@ -139,7 +139,7 @@
     "devtron": "^1.4.0",
     "electron": "^1.6.10",
     "electron-builder": "^18.0.1",
-    "electron-devtools-installer": "^2.2.0",
+    "electron-devtools-installer-ex": "^2.2.5",
     "enzyme": "^2.8.2",
     "enzyme-to-json": "^1.5.1",
     "eslint": "^3.19.0",

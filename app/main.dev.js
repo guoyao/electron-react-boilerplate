@@ -29,7 +29,7 @@ if (process.env.NODE_ENV === 'development' || process.env.DEBUG_PROD === 'true')
 }
 
 const installExtensions = async () => {
-    const installer = require('electron-devtools-installer');
+    const installer = require('electron-devtools-installer-ex');
     const forceDownload = !!process.env.UPGRADE_EXTENSIONS;
     const extensions = [
         'REACT_DEVELOPER_TOOLS',
