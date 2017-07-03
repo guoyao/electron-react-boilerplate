@@ -8580,6 +8580,10 @@ widest-line@^1.0.0:
   dependencies:
     string-width "^1.0.1"
 
+win-7zip@^0.1.1:
+  version "0.1.1"
+  resolved "http://registry.npm.taobao.org/win-7zip/download/win-7zip-0.1.1.tgz#14553f6dc56003d9a172f1fb5c488c7f167ec7de"
+
 window-size@0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/window-size/-/window-size-0.1.0.tgz#5438cd2ea93b202efa3a19fe8887aee7c94f9c9d"
